@@ -1,0 +1,1 @@
+This project is a prototype for a co-op platformer in Unity. Made in 2021, this was my first official coding project at the time of creation. All code written by myself, Ricky Antonelli. Assets are not made by me.
